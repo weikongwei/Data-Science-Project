@@ -1,9 +1,9 @@
 # Data-Science-Project
 
 ## Introduction
-Scince realestate has become one of the hotest market for investors, people first need to know where to invest in a city. "Location Location Location" is the golden rule of realestate investment. However, if a person is new to the market or new to a city. How would this person know where is the best location to possess a property?
+Scince realestate has become one of the hotest market for investors, people first need to know where to invest in a city. "Location Location Location" is the golden rule of realestate investment. However, if a person is new to the market or new to a city. How would this person know where the best location to possess a property is?
 
-Using Chicago as an example, based on the findings from a couple of dataset, it will tell you where the best locations are from the following 4 perspectives.   
+Using City of Chicago as an example, based on the findings from a couple of dataset, it will tell us where the best locations are from the following 4 perspectives.   
    
 1. Geographic analysis   
 2. Schools and Education   
