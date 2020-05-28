@@ -11,7 +11,7 @@ Using Chicago as an example, based on the findings from a couple of dataset, it 
 4. Convenience (surrounding venues)   
    
 ## Datasets
-In this project, we will use three datasets and Foursquare API to gather all the data needed.   
+In this project, we will use three datasets and Foursquare API to gather all data needed.   
    
 1. Chicago Census Data: used for human geography analysis. All investors want to purchase an property in a neighborhood which has a relatively high education level and high income level. The census data will help us to find out which areas are good.   
    
