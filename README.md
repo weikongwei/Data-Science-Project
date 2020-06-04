@@ -23,7 +23,7 @@ In this project, we will use three datasets and Foursquare API to gather all dat
     
 4. Foursquare API: this API will help us to explore commercial activities around each neighborhood. Based on the venue types, Machine Learning algorithm would be employeed for neighborhood clustering. Homebuyers could choose neighborhoods based on their personal preferances and life-styles.   
 
-## Analysis
+## Goals
 
 1. Use census data to find neighborhoods with family high income and high education level.  
 Optional: find corolation between these factors on realestate price.  
