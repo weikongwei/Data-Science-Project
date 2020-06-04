@@ -26,13 +26,13 @@ In this project, we will use three datasets and Foursquare API to gather all dat
 ## Analysis
 
 1. Use census data to find neighborhoods with family high income and high education level.  
-Optiional: find corolation between these factors on realestate price.  
+Optional: find corolation between these factors on realestate price.  
   
 2. Use public school data to find neighborhoods having good schools nearby.  
-Optiional: find corolation between this factors on realestate price.  
+Optional: find corolation between this factors on realestate price.  
   
 3. Use crime data to find safetiest neighborhoods.  
-Optiional: find corolation between this factors on realestate price.  
+Optional: find corolation between this factors on realestate price.  
   
-4. Use Foursquare API to find what type of business is the most common around each neighborhoods, for is for homebuyer's personal preference.
-Optiional: find corolation between this factors on realestate price.  
+4. Use Foursquare API to find what type of business is the most common around each neighborhoods, for is for homebuyer's personal preference.  
+Optional: find corolation between this factors on realestate price.  
